@@ -2,8 +2,8 @@
 This respository is my integration project
 
 1. Main file: filter.py, general_filter.py
-Input: messages from a Slack channel by using Slack API to retrieve the history
-Output: A CSV file that has a value column (malicious domains), tag columns (tag_1, tag_2,...)
+- Input: messages from a Slack channel by using Slack API to retrieve the history
+- Output: A CSV file that has a value column (malicious domains), tag columns (tag_1, tag_2,...)
 Main activities:
  - Extract information that contains malicious domains/URLs with their threat actors group
  - Threat actors group will be the tag of IOCs in Splunk
