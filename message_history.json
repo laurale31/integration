@@ -1,0 +1,3329 @@
+[
+    {
+        "client_msg_id": "e0a239ae-781a-4578-a4d0-cdd634237c19",
+        "type": "message",
+        "text": "This is a bunch of fake links of Fizzcore:\n<http://123.com|123.com>\n<http://Test3.com|Test3.com>\n<http://Haha.net|Haha.net>\n\nCelebcore:\n<http://Test4.net|Test4.net>\n<http://test5.com|test5.com>",
+        "user": "U05PRJG8P0V",
+        "ts": "1697137919.023059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IZg4H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is a bunch of fake links of Fizzcore:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://123.com",
+                                "text": "123.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://Test3.com",
+                                "text": "Test3.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://Haha.net",
+                                "text": "Haha.net"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nCelebcore:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://Test4.net",
+                                "text": "Test4.net"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://test5.com",
+                                "text": "test5.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "client_msg_id": "d1db7abf-0577-42ba-a7a5-528929132eec",
+        "type": "message",
+        "text": "Fizzcore: <http://abc.com|abc.com> , Celebcore: <http://xyz.com|xyz.com>",
+        "user": "U05PRJG8P0V",
+        "ts": "1697125538.413339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ogAh4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fizzcore: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://abc.com",
+                                "text": "abc.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , Celebcore: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://xyz.com",
+                                "text": "xyz.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "client_msg_id": "9e3d1961-ae91-4872-8464-6c599756ad14",
+        "type": "message",
+        "text": "progress!",
+        "user": "U02T7TNHZA8",
+        "ts": "1696964820.339749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KSffN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "progress!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M",
+        "reactions": [
+            {
+                "name": "blush",
+                "users": [
+                    "U05PRJG8P0V"
+                ],
+                "count": 1
+            },
+            {
+                "name": "boom",
+                "users": [
+                    "U4SSX5X9C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a1f28239-9d32-417f-81db-77d7b1358c92",
+        "type": "message",
+        "text": "```Fizzcore: <http://www.test2.com|www.test2.com>```",
+        "user": "U05PRJG8P0V",
+        "ts": "1696962408.584879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9UXQG",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fizzcore: www.test2.com"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "client_msg_id": "b1925183-0444-40c7-bb15-18cede983c96",
+        "type": "message",
+        "text": "```<http://www.test1.com|www.test1.com>```",
+        "user": "U05PRJG8P0V",
+        "ts": "1696950605.431849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MRB/1",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "www.test1.com"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "client_msg_id": "bb164091-6702-480b-8ef9-90cbaba4bf4e",
+        "type": "message",
+        "text": "I like it!",
+        "user": "U02T7TNHZA8",
+        "ts": "1696446930.142629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6OUUo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I like it!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M",
+        "reactions": [
+            {
+                "name": "blush",
+                "users": [
+                    "U05PRJG8P0V",
+                    "U4SSX5X9C"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cd375351-a049-4546-ae90-9aafb427f971",
+        "type": "message",
+        "text": "yeah that\u2019s why i choose this channel :)) I just wrote a short code block to test my code",
+        "user": "U05PRJG8P0V",
+        "ts": "1696446917.550899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rs/IL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah that\u2019s why i choose this channel :)) I just wrote a short code block to test my code"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "client_msg_id": "cba59e6b-05aa-4800-ab50-25d1cf7dc930",
+        "type": "message",
+        "text": "looks succesful ... though we don't use this channel often",
+        "user": "U02T7TNHZA8",
+        "ts": "1696446773.443549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5RZ1n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "looks succesful ... though we don't use this channel often"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "client_msg_id": "270d9826-2b86-42b2-b729-7aad1a19c593",
+        "type": "message",
+        "text": "```test```",
+        "user": "U05PRJG8P0V",
+        "ts": "1696446717.672749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eaIXd",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "test"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U4SSX5X9C"
+                ],
+                "count": 1
+            },
+            {
+                "name": "star-struck",
+                "users": [
+                    "U03U3G70CSD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1696443120.909329",
+        "user": "U05VAPH4TU1",
+        "text": "<@U05VAPH4TU1> has joined the channel",
+        "inviter": "U05PRJG8P0V"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1693232429.805229",
+        "user": "U05PRJG8P0V",
+        "text": "<@U05PRJG8P0V> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1689599985.854029",
+        "user": "U05GARKM347",
+        "text": "<@U05GARKM347> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1685457861.591959",
+        "user": "U059ECSF421",
+        "text": "<@U059ECSF421> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1679935228.734799",
+        "user": "U04UZQ8HQ6P",
+        "text": "<@U04UZQ8HQ6P> has joined the channel"
+    },
+    {
+        "client_msg_id": "c32eb24a-f105-4880-982b-c5e03ffa4f9f",
+        "type": "message",
+        "text": "I *love* voting in person at our neighborhood community center, so you can count on me to be there bright and early on the big day!  :slightly_smiling_face:",
+        "user": "U4SSX5X9C",
+        "ts": "1666709114.782439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6tXB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I "
+                            },
+                            {
+                                "type": "text",
+                                "text": "love",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " voting in person at our neighborhood community center, so you can count on me to be there bright and early on the big day!  "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "client_msg_id": "02d5a7b0-52fa-4c61-8e69-e67b3e2e1eec",
+        "type": "message",
+        "text": "I mailed in my ballot two weeks ago :slightly_smiling_face:!",
+        "user": "UF6CTKATG",
+        "ts": "1666707397.622719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nNJOI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I mailed in my ballot two weeks ago "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M",
+        "edited": {
+            "user": "UF6CTKATG",
+            "ts": "1666707408.000000"
+        },
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U65Q6AG9F",
+                    "U4SSX5X9C",
+                    "U03U3G70CSD"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "US team members: Don\u2019t forget to VOTE two weeks from today! ",
+        "files": [
+            {
+                "id": "F04803QT14J",
+                "created": 1666707108,
+                "timestamp": 1666707108,
+                "name": "IMG_5916.jpg",
+                "title": "IMG_5916",
+                "mimetype": "image/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U65Q6AG9F",
+                "user_team": "T4JECK49M",
+                "editable": false,
+                "size": 895166,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/T4JECK49M-F04803QT14J/img_5916.jpg",
+                "url_private_download": "https://files.slack.com/files-pri/T4JECK49M-F04803QT14J/download/img_5916.jpg",
+                "media_display_type": "unknown",
+                "thumb_64": "https://files.slack.com/files-tmb/T4JECK49M-F04803QT14J-85cd45f7ef/img_5916_64.jpg",
+                "thumb_80": "https://files.slack.com/files-tmb/T4JECK49M-F04803QT14J-85cd45f7ef/img_5916_80.jpg",
+                "thumb_360": "https://files.slack.com/files-tmb/T4JECK49M-F04803QT14J-85cd45f7ef/img_5916_360.jpg",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/T4JECK49M-F04803QT14J-85cd45f7ef/img_5916_480.jpg",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/T4JECK49M-F04803QT14J-85cd45f7ef/img_5916_160.jpg",
+                "thumb_720": "https://files.slack.com/files-tmb/T4JECK49M-F04803QT14J-85cd45f7ef/img_5916_720.jpg",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/T4JECK49M-F04803QT14J-85cd45f7ef/img_5916_800.jpg",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https://files.slack.com/files-tmb/T4JECK49M-F04803QT14J-85cd45f7ef/img_5916_960.jpg",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https://files.slack.com/files-tmb/T4JECK49M-F04803QT14J-85cd45f7ef/img_5916_1024.jpg",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACS0BL3ZfyzShZO8g/75pN3vTJrgQj+8x6CkO5Lhv7//AI7Rtz1IP4VXiuHcBjtx6DNWFcOMigNTKujtupRj+LNRbvY1Jf8AF2/vj+VV80xGxVeWIu+7OOSDVigpnkc56ikMhXC/IoJPoBmp4cgnIIyO9KAwXC7h7AAU5FI5Y5NA2zN1Ef6V/wABFVMGtC+iDzg/7Iqt5A9aZJo7l/vCnK6+oqtijHvQBcDr60u5fWqqdepqZRyKAGXAVnBJHSodieoqG/c/acA9AKrb29aAP//Z",
+                "permalink": "https://teamtag.slack.com/files/U65Q6AG9F/F04803QT14J/img_5916.jpg",
+                "permalink_public": "https://slack-files.com/T4JECK49M-F04803QT14J-9b3785a8ee",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U65Q6AG9F",
+        "display_as_bot": false,
+        "ts": "1666707114.088549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PnD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "US team members: Don\u2019t forget to VOTE two weeks from today! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "2E0B8EE2-0FF0-439D-8EB1-9F9CF6FB593B",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U4RHA1N3X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1660593478.077139",
+        "user": "U03U3G70CSD",
+        "text": "<@U03U3G70CSD> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1658177432.275819",
+        "user": "U03PSKFL0AJ",
+        "text": "<@U03PSKFL0AJ> has joined the channel"
+    },
+    {
+        "client_msg_id": "37E70F67-620D-4808-96A1-8E7B1DF39903",
+        "type": "message",
+        "text": "Oh my goodness I can't cope with this!!!",
+        "user": "U019P93TLA2",
+        "ts": "1654626705.653939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rv1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh my goodness I can't cope with this!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "type": "message",
+        "text": "The truffle butter is out of this world. ",
+        "files": [
+            {
+                "id": "F03JKCKKS1K",
+                "created": 1654623959,
+                "timestamp": 1654623959,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U4RHA1N3X",
+                "user_team": "T4JECK49M",
+                "editable": false,
+                "size": 812946,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/T4JECK49M-F03JKCKKS1K/image_from_ios.jpg",
+                "url_private_download": "https://files.slack.com/files-pri/T4JECK49M-F03JKCKKS1K/download/image_from_ios.jpg",
+                "media_display_type": "unknown",
+                "thumb_64": "https://files.slack.com/files-tmb/T4JECK49M-F03JKCKKS1K-3df6a832f3/image_from_ios_64.jpg",
+                "thumb_80": "https://files.slack.com/files-tmb/T4JECK49M-F03JKCKKS1K-3df6a832f3/image_from_ios_80.jpg",
+                "thumb_360": "https://files.slack.com/files-tmb/T4JECK49M-F03JKCKKS1K-3df6a832f3/image_from_ios_360.jpg",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/T4JECK49M-F03JKCKKS1K-3df6a832f3/image_from_ios_480.jpg",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/T4JECK49M-F03JKCKKS1K-3df6a832f3/image_from_ios_160.jpg",
+                "thumb_720": "https://files.slack.com/files-tmb/T4JECK49M-F03JKCKKS1K-3df6a832f3/image_from_ios_720.jpg",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/T4JECK49M-F03JKCKKS1K-3df6a832f3/image_from_ios_800.jpg",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https://files.slack.com/files-tmb/T4JECK49M-F03JKCKKS1K-3df6a832f3/image_from_ios_960.jpg",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https://files.slack.com/files-tmb/T4JECK49M-F03JKCKKS1K-3df6a832f3/image_from_ios_1024.jpg",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACSJbD+9Jj6Cn/2ch/5aN+VXMUp4FFwKJ04Z4l/NaY2nuOjqf0q6pOakbkUoyTG1YyTaSg4wPzpPssnoPzrRkIBwabuFMQ+N3KLwCSM5pWlOO2fpUW4+XGQcDAp3mpv69f0qblpAsrZ6LmpPNbHKjFRl04wQCOOlOYkKCQM+lJaDdipNIzStntxUe8+tJKcyv9abmrMzTgkjW3RXZQQMEE0/fb/3o/zFZcnJyepqKm0FzXzbf3o/zFPVoRyrJ+YrENN60rATE5JPqaSo6KAP/9k=",
+                "permalink": "https://teamtag.slack.com/files/U4RHA1N3X/F03JKCKKS1K/image_from_ios.jpg",
+                "permalink_public": "https://slack-files.com/T4JECK49M-F03JKCKKS1K-531c2dc9ca",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U4RHA1N3X",
+        "display_as_bot": false,
+        "ts": "1654623979.158549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zNA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "truffle"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "butter"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "is"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "out"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "of"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "this"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "world. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "920DD6C9-61AB-4407-8C85-F2AF0FDFB921",
+        "reactions": [
+            {
+                "name": "boom",
+                "users": [
+                    "UCMMY682Y",
+                    "U019P93TLA2"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U4SMB4GES",
+                    "U019P93TLA2",
+                    "U69M84XKL"
+                ],
+                "count": 3
+            },
+            {
+                "name": "lobster",
+                "users": [
+                    "U4SSX5X9C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Let me be the one to second that emotion! :yum: #LunchAtLukes :lobster: ",
+        "files": [
+            {
+                "id": "F03JKAQBGJH",
+                "created": 1654623285,
+                "timestamp": 1654623285,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U69M84XKL",
+                "user_team": "T4JECK49M",
+                "editable": false,
+                "size": 786592,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/T4JECK49M-F03JKAQBGJH/image_from_ios.jpg",
+                "url_private_download": "https://files.slack.com/files-pri/T4JECK49M-F03JKAQBGJH/download/image_from_ios.jpg",
+                "media_display_type": "unknown",
+                "thumb_64": "https://files.slack.com/files-tmb/T4JECK49M-F03JKAQBGJH-41ea80f573/image_from_ios_64.jpg",
+                "thumb_80": "https://files.slack.com/files-tmb/T4JECK49M-F03JKAQBGJH-41ea80f573/image_from_ios_80.jpg",
+                "thumb_360": "https://files.slack.com/files-tmb/T4JECK49M-F03JKAQBGJH-41ea80f573/image_from_ios_360.jpg",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/T4JECK49M-F03JKAQBGJH-41ea80f573/image_from_ios_480.jpg",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/T4JECK49M-F03JKAQBGJH-41ea80f573/image_from_ios_160.jpg",
+                "thumb_720": "https://files.slack.com/files-tmb/T4JECK49M-F03JKAQBGJH-41ea80f573/image_from_ios_720.jpg",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/T4JECK49M-F03JKAQBGJH-41ea80f573/image_from_ios_800.jpg",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https://files.slack.com/files-tmb/T4JECK49M-F03JKAQBGJH-41ea80f573/image_from_ios_960.jpg",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https://files.slack.com/files-tmb/T4JECK49M-F03JKAQBGJH-41ea80f573/image_from_ios_1024.jpg",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACTPZi3U5pRE/wApKkKxwDV2zst2JJRx2U/1q+6g8cH1FDApmTaQFAOPWnmZu0fB7k0MNr4AByc5NKXBzwD9ayu7l6ADuAOMZoxTc0Z+tUIss21Tjk1CZWc4QbfU06ZgPlA5NR8JHk545oY0hGO0gtk9sD1p7x7FU4wT1FNiUKPOk4P8IPb3qCS6bnAGB0zTS0JbJ80Zql9sf+6tH2x/7q07AXHP70knpTlXzMM/3OoHqabAvmgSSDA9PWo7qfOUUjHcj+VJLW476WGXM5kbAPyj9aqu3YUrGoyaoQlFFFAH/9k=",
+                "permalink": "https://teamtag.slack.com/files/U69M84XKL/F03JKAQBGJH/image_from_ios.jpg",
+                "permalink_public": "https://slack-files.com/T4JECK49M-F03JKAQBGJH-de56e1dde3",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U69M84XKL",
+        "display_as_bot": false,
+        "ts": "1654623383.010249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CMJn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "me"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "be"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "the"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "one"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "to"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "second"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "that"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "emotion!"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "yum",
+                                "unicode": "1f60b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "#LunchAtLukes"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "lobster",
+                                "unicode": "1f99e"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "A815BBA5-4437-4AFC-BE7C-83434AF3CFF1",
+        "reactions": [
+            {
+                "name": "lobster",
+                "users": [
+                    "U4SSX5X9C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Nothing better than being treated to Luke's Lobster your first official day back to the office :)!",
+        "files": [
+            {
+                "id": "F03JN5D0J5R",
+                "created": 1654623122,
+                "timestamp": 1654623122,
+                "name": "Luke's Lobster.jpg",
+                "title": "Luke's Lobster.jpg",
+                "mimetype": "image/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UF6CTKATG",
+                "user_team": "T4JECK49M",
+                "editable": false,
+                "size": 1372647,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/T4JECK49M-F03JN5D0J5R/luke_s_lobster.jpg",
+                "url_private_download": "https://files.slack.com/files-pri/T4JECK49M-F03JN5D0J5R/download/luke_s_lobster.jpg",
+                "media_display_type": "unknown",
+                "thumb_64": "https://files.slack.com/files-tmb/T4JECK49M-F03JN5D0J5R-a670f07154/luke_s_lobster_64.jpg",
+                "thumb_80": "https://files.slack.com/files-tmb/T4JECK49M-F03JN5D0J5R-a670f07154/luke_s_lobster_80.jpg",
+                "thumb_360": "https://files.slack.com/files-tmb/T4JECK49M-F03JN5D0J5R-a670f07154/luke_s_lobster_360.jpg",
+                "thumb_360_w": 266,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/T4JECK49M-F03JN5D0J5R-a670f07154/luke_s_lobster_480.jpg",
+                "thumb_480_w": 355,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/T4JECK49M-F03JN5D0J5R-a670f07154/luke_s_lobster_160.jpg",
+                "thumb_720": "https://files.slack.com/files-tmb/T4JECK49M-F03JN5D0J5R-a670f07154/luke_s_lobster_720.jpg",
+                "thumb_720_w": 532,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/T4JECK49M-F03JN5D0J5R-a670f07154/luke_s_lobster_800.jpg",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1083,
+                "thumb_960": "https://files.slack.com/files-tmb/T4JECK49M-F03JN5D0J5R-a670f07154/luke_s_lobster_960.jpg",
+                "thumb_960_w": 709,
+                "thumb_960_h": 960,
+                "thumb_1024": "https://files.slack.com/files-tmb/T4JECK49M-F03JN5D0J5R-a670f07154/luke_s_lobster_1024.jpg",
+                "thumb_1024_w": 757,
+                "thumb_1024_h": 1024,
+                "original_w": 1908,
+                "original_h": 2582,
+                "thumb_tiny": "AwAwACMeOKDaJSzMey1GYGMTTjGByF9qlnt2mn3rImw46npUs5WK0ZF5+XFAGd5n+yKXcP7oqSO0ZuWBxU6WsSHL8j3NAFPI/uijI/uilK4JFJtoAniWQpwpwOhzQ8U5UrjOevOBUsIbYFzjvx1p2GxlSTz0qeYqwlurLGRKp3dM57UsgUL9zJ78ZqMs2TlsEdqkQsPvA49aVwsM3MecAfhRlvRfyp7AKxFJkVZIruqSc9R0podf+em32FWtoPVQfwppjT+4v5VFi7lM4zkMT+FSJJhQD+VWPKjPVF/KlEajooFHKHMRFdxzRsqXap7UbF9Kok//2Q==",
+                "permalink": "https://teamtag.slack.com/files/UF6CTKATG/F03JN5D0J5R/luke_s_lobster.jpg",
+                "permalink_public": "https://slack-files.com/T4JECK49M-F03JN5D0J5R-1bdbcd0b99",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "UF6CTKATG",
+        "display_as_bot": false,
+        "ts": "1654623140.619939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0h3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nothing better than being treated to Luke's Lobster your first official day back to the office :)!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "cd2b4e60-817b-46d4-90b9-95db4d0d06f3",
+        "reactions": [
+            {
+                "name": "male-cook::skin-tone-2",
+                "users": [
+                    "U02T7TNHZA8"
+                ],
+                "count": 1
+            },
+            {
+                "name": "drooling_face",
+                "users": [
+                    "U69M84XKL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "beers",
+                "users": [
+                    "UEL22C3TR"
+                ],
+                "count": 1
+            },
+            {
+                "name": "lobster",
+                "users": [
+                    "U4SSX5X9C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2fc24626-1fd8-45c4-9554-2d5ae53f5b2f",
+        "type": "message",
+        "text": "Guilty as charged",
+        "user": "U4RHA1N3X",
+        "ts": "1654615637.805059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mnDu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Guilty as charged"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "client_msg_id": "B95C22C9-95DB-4C34-AD1A-939ABEC0B262",
+        "type": "message",
+        "text": "Somebody took a bite out of it already though! ",
+        "user": "U02T7TNHZA8",
+        "ts": "1654614519.817689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pV7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Somebody"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "took"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "bite"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "out"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "of"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "already"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "though!"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "UF6CTKATG",
+                    "U69M84XKL"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "You don't get these kinds of deliveries at your home office!!! :drooling_face:",
+        "files": [
+            {
+                "id": "F03JM6GGJMR",
+                "created": 1654614432,
+                "timestamp": 1654614432,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U4RHA1N3X",
+                "user_team": "T4JECK49M",
+                "editable": false,
+                "size": 1139531,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/T4JECK49M-F03JM6GGJMR/image_from_ios.jpg",
+                "url_private_download": "https://files.slack.com/files-pri/T4JECK49M-F03JM6GGJMR/download/image_from_ios.jpg",
+                "media_display_type": "unknown",
+                "thumb_64": "https://files.slack.com/files-tmb/T4JECK49M-F03JM6GGJMR-c02736d017/image_from_ios_64.jpg",
+                "thumb_80": "https://files.slack.com/files-tmb/T4JECK49M-F03JM6GGJMR-c02736d017/image_from_ios_80.jpg",
+                "thumb_360": "https://files.slack.com/files-tmb/T4JECK49M-F03JM6GGJMR-c02736d017/image_from_ios_360.jpg",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/T4JECK49M-F03JM6GGJMR-c02736d017/image_from_ios_480.jpg",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/T4JECK49M-F03JM6GGJMR-c02736d017/image_from_ios_160.jpg",
+                "thumb_720": "https://files.slack.com/files-tmb/T4JECK49M-F03JM6GGJMR-c02736d017/image_from_ios_720.jpg",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/T4JECK49M-F03JM6GGJMR-c02736d017/image_from_ios_800.jpg",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https://files.slack.com/files-tmb/T4JECK49M-F03JM6GGJMR-c02736d017/image_from_ios_960.jpg",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https://files.slack.com/files-tmb/T4JECK49M-F03JM6GGJMR-c02736d017/image_from_ios_1024.jpg",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACQlt1kUdjVf7O44VGb8KtQS5kUHHXvVh+MjGFHTFSUlczPJkU8o35VLG8a/fbHtVnAAAY/T/PpWfOv79+/NC1RTjYsNcQ54yfwpPtEPo35VWAoxRYgthCjBh2NOluCSdoHHX3pdwJAHXNJ5R+dgPmOfwpdCoodFIXTn1qpINrt35q3Epjjx69ajARpGDdM01sVK9hscQZAfWneQPSpwI1GAABR8ntSuc/LLuUd/I+tX8E8HqDxVOaKOJdxJz2GetOa7fylbaPmPcmqa0NoySLAyTkDnv71UZsyM3qael2SPmXnHPPBpgA9KLDlJMXJ9aNx9aOPSjj0oIP/Z",
+                "permalink": "https://teamtag.slack.com/files/U4RHA1N3X/F03JM6GGJMR/image_from_ios.jpg",
+                "permalink_public": "https://slack-files.com/T4JECK49M-F03JM6GGJMR-41cc2a057f",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U4RHA1N3X",
+        "display_as_bot": false,
+        "ts": "1654614467.080569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rXoi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You don't "
+                            },
+                            {
+                                "type": "text",
+                                "text": "get"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "these"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "kinds"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "of"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "deliveries"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "at"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "your"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "home"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "office!!!"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "drooling_face",
+                                "unicode": "1f924"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "82EB5526-0557-4939-BF97-E01AADE329E5",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U69M84XKL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "UEL22C3TR",
+                    "U4SSX5X9C",
+                    "U65Q6AG9F"
+                ],
+                "count": 3
+            },
+            {
+                "name": "doughnut",
+                "users": [
+                    "U6RJSN41K",
+                    "U4SMB4GES",
+                    "U4SSX5X9C",
+                    "UF6CTKATG"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "CB70C04A-A1CA-4928-A469-74BE53578869",
+        "type": "message",
+        "text": "I mean bungie was sensible enough to part ways with Microsoft way back when they saw how they destroyed Halo\u2026 now siding with Sony, interesting move I'd say ",
+        "user": "U01Q6N3N3A6",
+        "ts": "1643668483.661509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UiFc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I mean bungie was sensible enough to part ways with Microsoft way back when they saw how they destroyed Halo\u2026 now siding with Sony, interesting move I'd say "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "client_msg_id": "1EF3C2C8-6514-4449-9084-C0AA75571DF6",
+        "type": "message",
+        "text": "Well Bungie\u2019s track record isn't bad: Halo (before Xbox destroyed it) and Destiny, both franchises did well whilst bungie was in/still in control of them",
+        "user": "U01Q6N3N3A6",
+        "ts": "1643668430.885229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ckb8D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Well Bungie\u2019s track record isn't bad: Halo (before Xbox destroyed it) and Destiny, both franchises did well whilst bungie was in/still in control of them"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "client_msg_id": "d64de7e7-cb97-4823-bc01-977b9c87c95c",
+        "type": "message",
+        "text": "Maybe the Halo TV show will just be that good",
+        "user": "U02T7TNHZA8",
+        "ts": "1643657853.699979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W=MF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Maybe the Halo TV show will just be that good"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "client_msg_id": "567d6f51-f076-4b8a-b2c9-540445a7d969",
+        "type": "message",
+        "text": "That's a lot for a company that basically makes one game :smiley:",
+        "user": "UCMMY682Y",
+        "ts": "1643656844.475279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sDd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's a lot for a company that basically makes one game "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiley",
+                                "unicode": "1f603"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "UEL22C3TR",
+                    "U4SSX5X9C"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8d114e57-9992-400a-af8d-7789a6c0a8cf",
+        "type": "message",
+        "text": "*For the gaming discussion*: MS' former acquisition, Bungee, acquired by Sony ($3.6B).",
+        "user": "UEL22C3TR",
+        "ts": "1643656567.419869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oTc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For the gaming discussion",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ": MS' former acquisition, Bungee, acquired by Sony ($3.6B)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1641590159.000300",
+        "user": "U02T7TNHZA8",
+        "text": "<@U02T7TNHZA8> has joined the channel"
+    },
+    {
+        "client_msg_id": "9532c697-7829-45fc-8689-eca5139e0ba7",
+        "type": "message",
+        "text": "#winning and #wining",
+        "user": "U4RHA1N3X",
+        "ts": "1631546643.001400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HKo4H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#winning and #wining"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "UEL22C3TR",
+                    "U69M84XKL"
+                ],
+                "count": 2
+            },
+            {
+                "name": "wine_glass",
+                "users": [
+                    "U4SSX5X9C"
+                ],
+                "count": 1
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U69M84XKL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2382c9d8-732f-4742-818c-c6c385858ae6",
+        "type": "message",
+        "text": "NICE!",
+        "user": "U4SSX5X9C",
+        "ts": "1631545701.000800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XGh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "NICE!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "type": "message",
+        "text": "I did my part to represent TAG over the weekend.",
+        "files": [
+            {
+                "id": "F02E1PM5UCE",
+                "created": 1631545635,
+                "timestamp": 1631545635,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UEL22C3TR",
+                "user_team": "T4JECK49M",
+                "editable": false,
+                "size": 1107690,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/T4JECK49M-F02E1PM5UCE/image_from_ios.jpg",
+                "url_private_download": "https://files.slack.com/files-pri/T4JECK49M-F02E1PM5UCE/download/image_from_ios.jpg",
+                "media_display_type": "unknown",
+                "thumb_64": "https://files.slack.com/files-tmb/T4JECK49M-F02E1PM5UCE-4283c2b8f5/image_from_ios_64.jpg",
+                "thumb_80": "https://files.slack.com/files-tmb/T4JECK49M-F02E1PM5UCE-4283c2b8f5/image_from_ios_80.jpg",
+                "thumb_360": "https://files.slack.com/files-tmb/T4JECK49M-F02E1PM5UCE-4283c2b8f5/image_from_ios_360.jpg",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/T4JECK49M-F02E1PM5UCE-4283c2b8f5/image_from_ios_480.jpg",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/T4JECK49M-F02E1PM5UCE-4283c2b8f5/image_from_ios_160.jpg",
+                "thumb_720": "https://files.slack.com/files-tmb/T4JECK49M-F02E1PM5UCE-4283c2b8f5/image_from_ios_720.jpg",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/T4JECK49M-F02E1PM5UCE-4283c2b8f5/image_from_ios_800.jpg",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https://files.slack.com/files-tmb/T4JECK49M-F02E1PM5UCE-4283c2b8f5/image_from_ios_960.jpg",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https://files.slack.com/files-tmb/T4JECK49M-F02E1PM5UCE-4283c2b8f5/image_from_ios_1024.jpg",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACQijihAOwkkZyagu4lGJFPLNgj0q1CFkiwwPBqrcH98VPKjoKkt2sQEOWOAcE09UkyPlbFPiBK+vv6VOsLHnA/OncmzsQ7X/wCeX6UYf/nl+lTGJgeVb8qPLb+635U7isSxvmQjI6dhgUrJGwJZAxBqBflIzk1KtwkbMGyFPSpKCbZGVjG1QRk01ZVjAzyPWo7h1uHDKCABgH1pipz8x/IUNIalpYuJcLt5DflS/aF9G/KoN3oOBRuPoP1pWELjjmk2gjkcUhYin9ufypiG4AbGMY9qOPb8qGPofzpFyaAHYPvS4PoaXGPSj8qAP//Z",
+                "permalink": "https://teamtag.slack.com/files/UEL22C3TR/F02E1PM5UCE/image_from_ios.jpg",
+                "permalink_public": "https://slack-files.com/T4JECK49M-F02E1PM5UCE-402f86d109",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "UEL22C3TR",
+        "display_as_bot": false,
+        "ts": "1631545656.000600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9dClG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I did my part to represent TAG over the weekend."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "E31790C0-61F6-4E75-A118-AB977F43F2D0",
+        "reactions": [
+            {
+                "name": "clinking_glasses",
+                "users": [
+                    "U6RJSN41K",
+                    "U69M84XKL",
+                    "U4SMB4GES"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1625861917.000300",
+        "user": "U027F2NHA6A",
+        "text": "<@U027F2NHA6A> has joined the channel"
+    },
+    {
+        "client_msg_id": "05665557-681b-4ea9-b27f-a966672a0b4e",
+        "type": "message",
+        "text": "omg - so sorry",
+        "user": "U01Q6N3N3A6",
+        "ts": "1615909053.000700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0cPlQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "omg - so sorry"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "client_msg_id": "31866f96-7d1d-416f-acba-f53531ac8178",
+        "type": "message",
+        "text": "yes",
+        "user": "U01Q6N3N3A6",
+        "ts": "1615909048.000500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aq+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "client_msg_id": "cfb66637-4f30-477a-b4c2-bb4b6ea7bd3c",
+        "type": "message",
+        "text": "Hi Vanessa are we still meeting today?",
+        "user": "U0173GQMSUU",
+        "ts": "1615908771.000300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gsr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Vanessa are we still meeting today?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1615800035.000100",
+        "user": "U01Q6N3N3A6",
+        "text": "<@U01Q6N3N3A6> has joined the channel"
+    },
+    {
+        "client_msg_id": "6bc19750-bd85-4c4f-b606-dd84c5173db7",
+        "type": "message",
+        "text": "I'm sure it's driving our poor friends at Charter SpectrumReach nuts...but I do love seeing those ads!",
+        "user": "U4SSX5X9C",
+        "ts": "1614348892.003200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oxF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm sure it's driving our poor friends at Charter SpectrumReach nuts...but I do love seeing those ads!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "client_msg_id": "96CD5FC0-FEE8-4F84-BE8F-747AA3868D2A",
+        "type": "message",
+        "text": "So good. Wonder if we could get our hands on the campaign metrics... ",
+        "user": "U4SMB4GES",
+        "ts": "1614347916.002700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "et0Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So good. Wonder if we could get our hands on the campaign metrics... "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "type": "message",
+        "text": "Premion continues to feature their TAG certification in an as campaign in MediaPost. They\u2019ve been running this sponsorship for about a month now. Wild!!!",
+        "files": [
+            {
+                "id": "F01PH8JRHDH",
+                "created": 1614346758,
+                "timestamp": 1614346758,
+                "name": "Image from iOS.png",
+                "title": "Image from iOS",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U4RHA1N3X",
+                "user_team": "T4JECK49M",
+                "editable": false,
+                "size": 3061769,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/T4JECK49M-F01PH8JRHDH/image_from_ios.png",
+                "url_private_download": "https://files.slack.com/files-pri/T4JECK49M-F01PH8JRHDH/download/image_from_ios.png",
+                "media_display_type": "unknown",
+                "thumb_64": "https://files.slack.com/files-tmb/T4JECK49M-F01PH8JRHDH-5981ee5be3/image_from_ios_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/T4JECK49M-F01PH8JRHDH-5981ee5be3/image_from_ios_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/T4JECK49M-F01PH8JRHDH-5981ee5be3/image_from_ios_360.png",
+                "thumb_360_w": 166,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/T4JECK49M-F01PH8JRHDH-5981ee5be3/image_from_ios_480.png",
+                "thumb_480_w": 222,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/T4JECK49M-F01PH8JRHDH-5981ee5be3/image_from_ios_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/T4JECK49M-F01PH8JRHDH-5981ee5be3/image_from_ios_720.png",
+                "thumb_720_w": 333,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/T4JECK49M-F01PH8JRHDH-5981ee5be3/image_from_ios_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1732,
+                "thumb_960": "https://files.slack.com/files-tmb/T4JECK49M-F01PH8JRHDH-5981ee5be3/image_from_ios_960.png",
+                "thumb_960_w": 443,
+                "thumb_960_h": 960,
+                "thumb_1024": "https://files.slack.com/files-tmb/T4JECK49M-F01PH8JRHDH-5981ee5be3/image_from_ios_1024.png",
+                "thumb_1024_w": 473,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1125,
+                "original_h": 2436,
+                "thumb_tiny": "AwAwABa1vmGcRLn/AHqb5tz/AM8V/wC+6X7XCXZcPlTg8UG5jUZKvj6UAAe5PIgXP+/S+Zdf8+6f990sN1FK5RA+QM8ipt4oAw2DfapSAcBzn86mkmZlKqh5H5UsltOZZCI3wWJGMVGLa6/55vn8KAH6buF04brs/qK06pWUE6XBaRGA2YBP1q9tPpQAEnJ5oyfU01pFDYOe/anAqcYYc0AOWnU1QwPbFLzQB//Z",
+                "permalink": "https://teamtag.slack.com/files/U4RHA1N3X/F01PH8JRHDH/image_from_ios.png",
+                "permalink_public": "https://slack-files.com/T4JECK49M-F01PH8JRHDH-c023d089a2",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U4RHA1N3X",
+        "display_as_bot": false,
+        "ts": "1614346819.001600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n=r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Premion continues to feature their TAG certification in an as campaign in MediaPost. They\u2019ve been running this sponsorship for about a month now. Wild!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "B5CB8E33-68B2-4E5F-8475-E1C3BB277C56"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1598993814.000500",
+        "user": "U01A8KLNVR7",
+        "text": "<@U01A8KLNVR7> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1598983206.000400",
+        "user": "U019P93TLA2",
+        "text": "<@U019P93TLA2> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1594825570.000400",
+        "user": "U0173GQMSUU",
+        "text": "<@U0173GQMSUU> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1586203391.015000",
+        "user": "U6KAWV0MN",
+        "text": "<@U6KAWV0MN> has left the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1586203372.014800",
+        "user": "U6L5L44E4",
+        "text": "<@U6L5L44E4> has left the channel"
+    },
+    {
+        "client_msg_id": "DF23E85B-F546-41B7-A189-AE9A15A0E4F4",
+        "type": "message",
+        "text": "Thank you <@U4RHA1N3X> - the end of next week is a long holiday weekend in the UK (Easter) so will probably add to that to make it even longer! Will liaise with <@UF6CTKATG>. Happy Thursday all!",
+        "user": "U6RJSN41K",
+        "ts": "1585809918.013500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+N+Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U4RHA1N3X"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - the end of next week is a long holiday weekend in the UK (Easter) so will probably add to that to make it even longer! Will liaise with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UF6CTKATG"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Happy Thursday all!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "client_msg_id": "73f53a1a-e117-4212-8b3d-006aef4004f1",
+        "type": "message",
+        "text": "I didn't want to distract from the current discussion going on in the TAG Team channel, so this is as good of a place to bring this topic up as any. I, like many people, have recently cancelled Spring Break plans. As I was retracting my PTO request on TriNet, it occurred to me that the entire team is in the same predicament of not being able to travel (duh!), but this potentially raises two challenges. First, and most importantly, vacation is great for your mental health. Although we can't take traditional vacations at the moment, spending time away from from work is still very important to relax your brain and ease some of those everyday stresses. Therefore, I'd like everyone to take 1 day off during the month of April and you will not be deducted a PTO day. No, this is not an April Fools joke!!! Coordinate that day with Margaret to ensure we have adequate coverage across the team. Second, while I assume most people are not taking extended PTO over the next couple of months, I would encourage you to use some of your annual leave during this time to continue to get away from the daily grind of working and recharge your batteries. This will also relieve some of the strain on the organization assuming we get back to \"normal\" after the Summer and everyone is looking to squeeze in those vacation days before the holidays and the end of the year. We would hate to have to reject any such requests due to several others already being out of the office. All of this is a way to say that we're thinking about your short and long term well being. Stay healthy!!!",
+        "user": "U4RHA1N3X",
+        "ts": "1585754288.010000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ecn0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I didn't want to distract from the current discussion going on in the TAG Team channel, so this is as good of a place to bring this topic up as any. I, like many people, have recently cancelled Spring Break plans. As I was retracting my PTO request on TriNet, it occurred to me that the entire team is in the same predicament of not being able to travel (duh!), but this potentially raises two challenges. First, and most importantly, vacation is great for your mental health. Although we can't take traditional vacations at the moment, spending time away from from work is still very important to relax your brain and ease some of those everyday stresses. Therefore, I'd like everyone to take 1 day off during the month of April and you will not be deducted a PTO day. No, this is not an April Fools joke!!! Coordinate that day with Margaret to ensure we have adequate coverage across the team. Second, while I assume most people are not taking extended PTO over the next couple of months, I would encourage you to use some of your annual leave during this time to continue to get away from the daily grind of working and recharge your batteries. This will also relieve some of the strain on the organization assuming we get back to \"normal\" after the Summer and everyone is looking to squeeze in those vacation days before the holidays and the end of the year. We would hate to have to reject any such requests due to several others already being out of the office. All of this is a way to say that we're thinking about your short and long term well being. Stay healthy!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "UEL22C3TR",
+                    "UF6CTKATG",
+                    "U4SMB4GES",
+                    "U4SSX5X9C",
+                    "U69M84XKL",
+                    "UL3R2MATE",
+                    "U6RJSN41K"
+                ],
+                "count": 7
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U69M84XKL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U4SSX5X9C"
+                ],
+                "count": 1
+            },
+            {
+                "name": "boom",
+                "users": [
+                    "UCMMY682Y"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6e772667-99b8-463b-aa8d-3341d91aa0d5",
+        "type": "message",
+        "text": "Thanks, <@UEL22C3TR>.  #hubspotfail",
+        "user": "U4SSX5X9C",
+        "ts": "1568056315.000700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v9VG+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UEL22C3TR"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".  #hubspotfail"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "type": "message",
+        "text": "FYI, HubSpot looks to be having issues at the moment.",
+        "files": [
+            {
+                "id": "FN7STEBUP",
+                "created": 1568056253,
+                "timestamp": 1568056253,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UEL22C3TR",
+                "user_team": "T4JECK49M",
+                "editable": false,
+                "size": 37835,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/T4JECK49M-FN7STEBUP/image.png",
+                "url_private_download": "https://files.slack.com/files-pri/T4JECK49M-FN7STEBUP/download/image.png",
+                "media_display_type": "unknown",
+                "thumb_64": "https://files.slack.com/files-tmb/T4JECK49M-FN7STEBUP-1452c24f08/image_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/T4JECK49M-FN7STEBUP-1452c24f08/image_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/T4JECK49M-FN7STEBUP-1452c24f08/image_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 46,
+                "thumb_480": "https://files.slack.com/files-tmb/T4JECK49M-FN7STEBUP-1452c24f08/image_480.png",
+                "thumb_480_w": 480,
+                "thumb_480_h": 62,
+                "thumb_160": "https://files.slack.com/files-tmb/T4JECK49M-FN7STEBUP-1452c24f08/image_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/T4JECK49M-FN7STEBUP-1452c24f08/image_720.png",
+                "thumb_720_w": 720,
+                "thumb_720_h": 92,
+                "thumb_800": "https://files.slack.com/files-tmb/T4JECK49M-FN7STEBUP-1452c24f08/image_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 103,
+                "image_exif_rotation": 1,
+                "original_w": 913,
+                "original_h": 117,
+                "permalink": "https://teamtag.slack.com/files/UEL22C3TR/FN7STEBUP/image.png",
+                "permalink_public": "https://slack-files.com/T4JECK49M-FN7STEBUP-4ca8755ff7",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "UEL22C3TR",
+        "display_as_bot": false,
+        "ts": "1568056255.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I/+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "FYI, HubSpot looks to be having issues at the moment."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "41e05218-b42c-4ee3-bab7-058a009a23c7"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1563829045.000200",
+        "user": "ULG2PF1HP",
+        "text": "<@ULG2PF1HP> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1562181146.001100",
+        "user": "UL3R2MATE",
+        "text": "<@UL3R2MATE> has joined the channel"
+    },
+    {
+        "client_msg_id": "456822c5-2c2d-438a-ad53-cc4c028edc80",
+        "type": "message",
+        "text": "<https://www.zdnet.com/article/dhs-cisa-warns-of-iranian-hackers-habit-of-deploying-data-wiping-malware/>",
+        "user": "U4SSX5X9C",
+        "ts": "1561392433.000800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4qZyI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https://www.zdnet.com/article/dhs-cisa-warns-of-iranian-hackers-habit-of-deploying-data-wiping-malware/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M",
+        "attachments": [
+            {
+                "service_name": "ZDNet",
+                "title": "DHS CISA warns of Iranian hackers' habit of deploying data-wiping malware | ZDNet",
+                "title_link": "https://www.zdnet.com/article/dhs-cisa-warns-of-iranian-hackers-habit-of-deploying-data-wiping-malware/",
+                "text": "CISA also warns against other Iranian hackers' favorite techniques: password spraying, credential stuffing, spear-phishing.",
+                "fallback": "ZDNet: DHS CISA warns of Iranian hackers' habit of deploying data-wiping malware | ZDNet",
+                "image_url": "https://zdnet2.cbsistatic.com/hub/i/r/2016/04/29/d586fbfb-08bc-4f63-8189-52ce6d5fd539/thumbnail/770x578/16bcd11ed3bee57a169462252758e3e5/fbi-has-been-developing-cyber-hacking-tools-for-over-a-decade-to-attack-criminals.jpg",
+                "from_url": "https://www.zdnet.com/article/dhs-cisa-warns-of-iranian-hackers-habit-of-deploying-data-wiping-malware/",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 53559,
+                "service_icon": "https://zdnet2.cbsistatic.com/fly/bundles/zdnetcss/images/logos/logo-192x192.png",
+                "id": 1,
+                "original_url": "https://www.zdnet.com/article/dhs-cisa-warns-of-iranian-hackers-habit-of-deploying-data-wiping-malware/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b5e2d82b-942d-4c71-9769-5e9883204c9d",
+        "type": "message",
+        "text": "Check out what <@U648E0483> has been up to.  Nice, Michael!  <https://iapp.org/news/a/a-data-processing-addendum-for-the-ccpa/?mkt_tok=eyJpIjoiTlRVeE1XWXlNR00wTmpnMyIsInQiOiJsRG5VODNaRVhzTU9mXC8wN3oyRUtGdlwvNTBVM0RpcEJLd1dJRk1oeVBwdURtN2EzeHpwR2V3NHd1QUVHS3F5WXRPSmY0RG9pZmNDSlpNRzQzMjRMQUFtNlJEQlY1d0FlTDNzb3ZQUXlENW0rV2h4WWdnWXpZcFI2YW1tdHlBcWR6In0%3D>",
+        "user": "U4SSX5X9C",
+        "ts": "1560974429.000500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UHt1z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Check out what "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U648E0483"
+                            },
+                            {
+                                "type": "text",
+                                "text": " has been up to.  Nice, Michael!  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://iapp.org/news/a/a-data-processing-addendum-for-the-ccpa/?mkt_tok=eyJpIjoiTlRVeE1XWXlNR00wTmpnMyIsInQiOiJsRG5VODNaRVhzTU9mXC8wN3oyRUtGdlwvNTBVM0RpcEJLd1dJRk1oeVBwdURtN2EzeHpwR2V3NHd1QUVHS3F5WXRPSmY0RG9pZmNDSlpNRzQzMjRMQUFtNlJEQlY1d0FlTDNzb3ZQUXlENW0rV2h4WWdnWXpZcFI2YW1tdHlBcWR6In0%3D"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M",
+        "attachments": [
+            {
+                "title": "A data processing addendum for the CCPA?",
+                "title_link": "https://iapp.org/news/a/a-data-processing-addendum-for-the-ccpa/?mkt_tok=eyJpIjoiTlRVeE1XWXlNR00wTmpnMyIsInQiOiJsRG5VODNaRVhzTU9mXC8wN3oyRUtGdlwvNTBVM0RpcEJLd1dJRk1oeVBwdURtN2EzeHpwR2V3NHd1QUVHS3F5WXRPSmY0RG9pZmNDSlpNRzQzMjRMQUFtNlJEQlY1d0FlTDNzb3ZQUXlENW0rV2h4WWdnWXpZcFI2YW1tdHlBcWR6In0%3D",
+                "text": "The digital advertising industry is undergoing a rapid regulatory transformation. The EU General Data Protection Regulation went into effect more than a year ago, and the California Consumer Privacy Act is right around the corner with a Jan. 1, 2020, effective date. Other jurisdictions are likely...",
+                "fallback": "A data processing addendum for the CCPA?",
+                "image_url": "https://media.iapp.org/2019/04/26130847/CA-San_Fran_jordi-vich-navarro-1176280-unsplash.png",
+                "from_url": "https://iapp.org/news/a/a-data-processing-addendum-for-the-ccpa/?mkt_tok=eyJpIjoiTlRVeE1XWXlNR00wTmpnMyIsInQiOiJsRG5VODNaRVhzTU9mXC8wN3oyRUtGdlwvNTBVM0RpcEJLd1dJRk1oeVBwdURtN2EzeHpwR2V3NHd1QUVHS3F5WXRPSmY0RG9pZmNDSlpNRzQzMjRMQUFtNlJEQlY1d0FlTDNzb3ZQUXlENW0rV2h4WWdnWXpZcFI2YW1tdHlBcWR6In0%3D",
+                "image_width": 464,
+                "image_height": 250,
+                "image_bytes": 821970,
+                "service_name": "iapp.org",
+                "id": 1,
+                "original_url": "https://iapp.org/news/a/a-data-processing-addendum-for-the-ccpa/?mkt_tok=eyJpIjoiTlRVeE1XWXlNR00wTmpnMyIsInQiOiJsRG5VODNaRVhzTU9mXC8wN3oyRUtGdlwvNTBVM0RpcEJLd1dJRk1oeVBwdURtN2EzeHpwR2V3NHd1QUVHS3F5WXRPSmY0RG9pZmNDSlpNRzQzMjRMQUFtNlJEQlY1d0FlTDNzb3ZQUXlENW0rV2h4WWdnWXpZcFI2YW1tdHlBcWR6In0%3D"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "53a2ca28-d656-473b-b79e-4eece38f9a5a",
+        "type": "message",
+        "text": "(Specifically, you can access the set from some ISPs, but not others).",
+        "user": "UEL22C3TR",
+        "ts": "1558549575.003800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hlzz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(Specifically, you can access the set from some ISPs, but not others)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "client_msg_id": "7cb3f5da-0026-4501-ab90-70aa09130326",
+        "type": "message",
+        "text": "He's escalating the ticket.",
+        "user": "UEL22C3TR",
+        "ts": "1558549563.003500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Lky",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "He's escalating the ticket."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "client_msg_id": "80ae3aa2-32bb-46bc-bde2-d872fc1df663",
+        "type": "message",
+        "text": "Opened a ticket. Talked to HubSpot. As far as can tell, it's a routing issue at a higher level than them.",
+        "user": "UEL22C3TR",
+        "ts": "1558549559.003300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wIcJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Opened a ticket. Talked to HubSpot. As far as can tell, it's a routing issue at a higher level than them."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "client_msg_id": "e7835580-b41b-4287-be2a-e6167592ecb9",
+        "type": "message",
+        "text": "Yea, it's having trouble pulling from Xero too",
+        "user": "UCMMY682Y",
+        "ts": "1558547859.002900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dVvA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yea, it's having trouble pulling from Xero too"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "client_msg_id": "485d88b4-bb04-4a9d-8740-f3577a8c2166",
+        "type": "message",
+        "text": "The page still shows and shows as published, so that's good news.",
+        "user": "UEL22C3TR",
+        "ts": "1558547663.002500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m8/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The page still shows and shows as published, so that's good news."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "client_msg_id": "b1dc9d5e-e48b-46f6-a289-bc1f1f28db68",
+        "type": "message",
+        "text": "ugh to hear, but thanks for the heads-up",
+        "user": "U65Q6AG9F",
+        "ts": "1558547613.002200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2c6K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ugh to hear, but thanks for the heads-up"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "client_msg_id": "dcbf5e20-e7da-45bf-a8c2-405beb8f45ca",
+        "type": "message",
+        "text": "Registry is still down. I'll open a support ticket at the top of the hour if it's still down then.",
+        "user": "UEL22C3TR",
+        "ts": "1558547578.002000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OaJiy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Registry is still down. I'll open a support ticket at the top of the hour if it's still down then."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "client_msg_id": "e6cbb5c2-61fb-4e49-bfc2-eda98caf6713",
+        "type": "message",
+        "text": "(Sorry for the spam). It's coming back up in pieces now.",
+        "user": "UEL22C3TR",
+        "ts": "1558547337.001600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Eq33O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(Sorry for the spam). It's coming back up in pieces now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "client_msg_id": "2ca1bfec-ee22-4d4e-960e-6ea3a5730166",
+        "type": "message",
+        "text": "*but",
+        "user": "UEL22C3TR",
+        "ts": "1558547307.001200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bq8Df",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "*but"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "client_msg_id": "61512aa2-5c04-4092-8498-dc6248442e76",
+        "type": "message",
+        "text": "Bug the TAG site is still down.",
+        "user": "UEL22C3TR",
+        "ts": "1558547304.001000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9gT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bug the TAG site is still down."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "client_msg_id": "bc932fc8-d0b3-4ad9-8737-317a588aeae5",
+        "type": "message",
+        "text": "Ah, they're back up.",
+        "user": "UEL22C3TR",
+        "ts": "1558547286.000600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jao0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, they're back up."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "client_msg_id": "1a1751d7-a191-4fda-986b-badb7c4ff982",
+        "type": "message",
+        "text": "FYI - Hubspot may have just gone down.",
+        "user": "UEL22C3TR",
+        "ts": "1558547278.000400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZPe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "FYI - Hubspot may have just gone down."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1557871695.000200",
+        "user": "UJPJMKXQD",
+        "text": "<@UJPJMKXQD> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1552080999.000200",
+        "user": "UGUGB7BST",
+        "text": "<@UGUGB7BST> has joined the channel"
+    },
+    {
+        "client_msg_id": "157a3920-1e58-4321-9a3f-87ba9cb6171a",
+        "type": "message",
+        "text": "It looks like an airport directory :smiley:",
+        "user": "UCMMY682Y",
+        "ts": "1548356619.009200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a=a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It looks like an airport directory "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiley",
+                                "unicode": "1f603"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "client_msg_id": "8ad6e11f-909f-4024-aa87-26da4324f1c2",
+        "type": "message",
+        "text": "Expensify\u2019s old logo was admittedly terrible.  But the new one hardly even counts as a logo.",
+        "user": "U4SSX5X9C",
+        "ts": "1548355818.008900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hWR1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Expensify\u2019s old logo was admittedly terrible.  But the new one hardly even counts as a logo."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "client_msg_id": "c00dfa4c-eae9-4c34-98dd-2d604438c067",
+        "type": "message",
+        "text": "Right?!?!",
+        "user": "U4SSX5X9C",
+        "ts": "1548355561.008200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ogj7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Right?!?!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "client_msg_id": "720a62a0-08b6-49b7-a4f5-6dcd3454bebe",
+        "type": "message",
+        "text": "Expensify is trying to give them a run for their money on terrible redesigns.",
+        "user": "U4RHA1N3X",
+        "ts": "1548348633.008000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y25g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Expensify is trying to give them a run for their money on terrible redesigns."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "client_msg_id": "e4dfa266-2e28-4a87-aec4-ee25eb41c92a",
+        "type": "message",
+        "text": "YES.",
+        "user": "U4SSX5X9C",
+        "ts": "1548343081.007600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qfFA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "YES."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "client_msg_id": "c66c5d50-bc3f-49e9-a18e-308576702f79",
+        "type": "message",
+        "text": "one week update: nope, still hate the new slack icon",
+        "user": "U4TGJ5NRZ",
+        "ts": "1548342953.007300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f5m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "one week update: nope, still hate the new slack icon"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U4SSX5X9C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2CD72522-6554-4F26-96EC-73F026ADD76A",
+        "type": "message",
+        "text": "<@U4RHA1N3X> you\u2019re among your people. :wink:",
+        "user": "U4SSX5X9C",
+        "ts": "1547769071.006200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zio",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U4RHA1N3X"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you\u2019re among your people. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "client_msg_id": "fbcff361-ccbd-4781-b399-f333d441aa30",
+        "type": "message",
+        "text": "if my twitter feed is any indication, the outrage is universal",
+        "user": "U4TGJ5NRZ",
+        "ts": "1547764440.005500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qwvia",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if my twitter feed is any indication, the outrage is universal"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "client_msg_id": "604d2d3f-d124-4db6-a6b6-6593541b1206",
+        "type": "message",
+        "text": "OMG, so glad I'm not the only one who was being driven batty by that new logo on my phone today.",
+        "user": "U4RHA1N3X",
+        "ts": "1547759848.005000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vYLI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OMG, so glad I'm not the only one who was being driven batty by that new logo on my phone today."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U4SSX5X9C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7133f918-9ef3-4559-a53f-bfaa22d6afc9",
+        "type": "message",
+        "text": "okay, done with logo rant. :wink:",
+        "user": "U4SSX5X9C",
+        "ts": "1547755163.004500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "soM2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "okay, done with logo rant. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FFHKN2RL7",
+                "created": 1547755147,
+                "timestamp": 1547755147,
+                "name": "image.png",
+                "title": "Pasted image at 2019-01-17, 2:59 PM",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U4SSX5X9C",
+                "user_team": "T4JECK49M",
+                "editable": false,
+                "size": 94949,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/T4JECK49M-FFHKN2RL7/image.png",
+                "url_private_download": "https://files.slack.com/files-pri/T4JECK49M-FFHKN2RL7/download/image.png",
+                "media_display_type": "unknown",
+                "thumb_64": "https://files.slack.com/files-tmb/T4JECK49M-FFHKN2RL7-fda191158b/image_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/T4JECK49M-FFHKN2RL7-fda191158b/image_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/T4JECK49M-FFHKN2RL7-fda191158b/image_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 288,
+                "thumb_480": "https://files.slack.com/files-tmb/T4JECK49M-FFHKN2RL7-fda191158b/image_480.png",
+                "thumb_480_w": 480,
+                "thumb_480_h": 384,
+                "thumb_160": "https://files.slack.com/files-tmb/T4JECK49M-FFHKN2RL7-fda191158b/image_160.png",
+                "image_exif_rotation": 1,
+                "original_w": 500,
+                "original_h": 400,
+                "permalink": "https://teamtag.slack.com/files/U4SSX5X9C/FFHKN2RL7/image.png",
+                "permalink_public": "https://slack-files.com/T4JECK49M-FFHKN2RL7-424c8b7bd4",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U4SSX5X9C",
+        "display_as_bot": false,
+        "ts": "1547755149.004000"
+    },
+    {
+        "client_msg_id": "37AA8D67-290C-434C-835E-F5227CD69901",
+        "type": "message",
+        "text": "I want the hashtag back. It can be black and white if they want fewer colors, but this just looks like a weird water wheel to me. ",
+        "user": "U4SSX5X9C",
+        "ts": "1547753062.003900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e=RV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I want the hashtag back. It can be black and white if they want fewer colors, but this just looks like a weird water wheel to me."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "client_msg_id": "e4ef76dc-fbd0-44f3-b8a1-5146a984931c",
+        "type": "message",
+        "text": "imagine spot-color printing that stationery",
+        "user": "U4TGJ5NRZ",
+        "ts": "1547752976.002700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iWfFJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "imagine spot-color printing that stationery"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "client_msg_id": "a0af25d6-5ee7-40cd-a245-d20a49cf88a0",
+        "type": "message",
+        "text": "I didn't realize their old logo had 11 colors. That would be a pain.",
+        "user": "UEL22C3TR",
+        "ts": "1547752914.002300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R9W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I didn't realize their old logo had 11 colors. That would be a pain."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "client_msg_id": "1848a04f-77f0-429b-8770-64f426ecce31",
+        "type": "message",
+        "text": "it looks like MS Windows Healthcare Enterprise Edition\u2122",
+        "user": "U4TGJ5NRZ",
+        "ts": "1547752887.002000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b+V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it looks like MS Windows Healthcare Enterprise Edition\u2122"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "client_msg_id": "D4FD4A82-8320-45B3-B1A7-C01FC0AFC9C3",
+        "type": "message",
+        "text": "I hate the new Slack logo (iPhone just updated my app). That is all. :stuck_out_tongue_closed_eyes:",
+        "user": "U4SSX5X9C",
+        "ts": "1547752725.001100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I3dCi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I hate the new Slack logo (iPhone just updated my app). That is all. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue_closed_eyes",
+                                "unicode": "1f61d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1546448185.000200",
+        "user": "UF6CTKATG",
+        "text": "<@UF6CTKATG> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1543933953.000200",
+        "user": "UEL22C3TR",
+        "text": "<@UEL22C3TR> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1536183859.000200",
+        "user": "UCMMY682Y",
+        "text": "<@UCMMY682Y> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1521130167.000683",
+        "user": "U9QEN8XMZ",
+        "text": "<@U9QEN8XMZ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "woot",
+        "user": "U4SSX5X9C",
+        "ts": "1510600800.000231",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p4u0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "woot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "type": "message",
+        "text": "Good kickoff.  I'll be back up around 3.",
+        "user": "U6G2L8TLH",
+        "ts": "1510600286.000334",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "55IaO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good kickoff.  I'll be back up around 3."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "type": "message",
+        "text": "Use the Outlook app for mail if you aren't doing so already. ",
+        "user": "U4S9LPS5D",
+        "ts": "1505936005.000071",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xXE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Use the Outlook app for mail if you aren't doing so already."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "type": "message",
+        "text": "FYI:  <https://www.google.com/amp/www.telegraph.co.uk/technology/2017/09/20/ios-11-update-blocks-microsoft-accounts-sending-emails/amp/>",
+        "user": "U4S9LPS5D",
+        "ts": "1505935989.000249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n5i9S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "FYI:  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.google.com/amp/www.telegraph.co.uk/technology/2017/09/20/ios-11-update-blocks-microsoft-accounts-sending-emails/amp/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M",
+        "attachments": [
+            {
+                "service_name": "The Telegraph",
+                "title": "iOS 11 update blocks Microsoft accounts from sending emails",
+                "title_link": "https://www.google.com/amp/www.telegraph.co.uk/technology/2017/09/20/ios-11-update-blocks-microsoft-accounts-sending-emails/amp/",
+                "text": "Apple's iOS 11 update is blocking Microsoft email accounts from sending messages using the default Mail app for iPhone and iPad.",
+                "fallback": "The Telegraph: iOS 11 update blocks Microsoft accounts from sending emails",
+                "image_url": "http://www.telegraph.co.uk/content/dam/technology/2017/09/20/Outlook-Mail-app-xlarge_trans_NvBQzQNjv4Bqs8koymoFgMk_oMd7_Vzbd253Al7jCbdzVnSQ9foUnmo.PNG",
+                "from_url": "https://www.google.com/amp/www.telegraph.co.uk/technology/2017/09/20/ios-11-update-blocks-microsoft-accounts-sending-emails/amp/",
+                "image_width": 400,
+                "image_height": 250,
+                "image_bytes": 18900,
+                "service_icon": "http://www.telegraph.co.uk/etc/designs/telegraph/core/clientlibs/core/icons/favicon-152x152.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Heads up - updating the SFTP Server to the latest version because it's good security practice.  Might be a touch of downtime if people are trying to upload or download files, shouldn't be more than an hour.",
+        "user": "U6G2L8TLH",
+        "ts": "1505849683.000293",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TLTC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Heads up - updating the SFTP Server to the latest version because it's good security practice.  Might be a touch of downtime if people are trying to upload or download files, shouldn't be more than an hour."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U4TGJ5NRZ",
+                    "U4S95UYJK"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Looks good. ",
+        "user": "U4RHA1N3X",
+        "ts": "1505753272.000329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "itW6Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looks good."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "type": "message",
+        "text": "It works for me",
+        "user": "U4S95UYJK",
+        "ts": "1505752891.000301",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Snd8A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It works for me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "type": "message",
+        "text": "Fantastic",
+        "user": "U4S95UYJK",
+        "ts": "1505752859.000208",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nx=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fantastic"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "type": "message",
+        "text": "YAY!!!!!!!",
+        "user": "U4SSX5X9C",
+        "ts": "1505752831.000151",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cxYH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "YAY!!!!!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    },
+    {
+        "type": "message",
+        "text": "YES!",
+        "user": "U4SMB4GES",
+        "ts": "1505752337.000146",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4JdW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "YES!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T4JECK49M"
+    }
+]
