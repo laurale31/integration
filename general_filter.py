@@ -11,7 +11,7 @@ client = WebClient(token=config("SLACK_BOT_TOKEN"))
 logger = logging.getLogger(__name__)
 
 # ID of the channel you want to extract URLs from
-channel_id = "C4HQJJKFW"
+channel_id = "CHANNEL_ID"
 
 try:
     # Call the conversations.history method using the WebClient
