@@ -1,4 +1,10 @@
 # integration
+
+
+<img width="536" alt="image" src="https://github.com/laurale31/integration/assets/85873817/1620744a-0129-49a9-8092-6d251ce3c5df">
+
+
+
 This respository is my integration project
 
 1. Main file: filter.py, general_filter.py
